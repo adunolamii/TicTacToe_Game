@@ -5,8 +5,9 @@
 }
 .container{
     width: 373px;
-    height: 490px;
+    height: 670px;
     border: 2px solid palevioletred;
+    
 }
 .main{
     width: 350px;
@@ -82,6 +83,8 @@ nav{
         width: 1370px;
         height: 600px;
         border: 2px solid green;
+        /* background-image: url(tick2.jpg); */
+       
     }
     .main{
         margin: auto;
